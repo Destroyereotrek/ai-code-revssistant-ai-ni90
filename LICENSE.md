@@ -1,4 +1,4 @@
-# 
+# Personalizado AI Code Review Assistant temas. Con reconocimiento de imágenes y IA generativa — optimizado para el máximo rendimiento.
 
 
 
